@@ -64,7 +64,7 @@ More detailed usage examples can be found in the [examples](./examples/) directo
 
 ## Contributing
 
-To contribute to `pydcel`, please follow the guidelines mentioned in the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+To contribute to `pydcel`, please follow the guidelines mentioned in the [CONTRIBUTING.md](../CONTRIBUTING.md) file.
 
 ## License
 

@@ -68,4 +68,4 @@ To contribute to `pydcel`, please follow the guidelines mentioned in the [CONTRI
 
 ## License
 
-`pydcel` is distributed under the BSD 3-Clause License. For more information, please refer to the [LICENSE](/LICENSE) file.
+`pydcel` is distributed under the BSD 3-Clause License. For more information, please refer to the [LICENSE](LICENSE) file.

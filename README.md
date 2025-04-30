@@ -55,7 +55,7 @@ dcel = Dcel(vertex_coords, edges)
 print(dcel.statistics)
 ```
 
-More detailed usage examples can be found in the [examples](../examples/) directory.
+More detailed usage examples can be found in the [examples](./examples/) directory.
 
 
 ## Acknowledgemnt
@@ -64,8 +64,8 @@ More detailed usage examples can be found in the [examples](../examples/) direct
 
 ## Contributing
 
-To contribute to `pydcel`, please follow the guidelines mentioned in the [CONTRIBUTING.md](../CONTRIBUTING.md) file.
+To contribute to `pydcel`, please follow the guidelines mentioned in the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
 ## License
 
-`pydcel` is distributed under the BSD 3-Clause License. For more information, please refer to the [LICENSE](../LICENSE) file.
+`pydcel` is distributed under the BSD 3-Clause License. For more information, please refer to the [LICENSE](/LICENSE) file.

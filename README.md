@@ -58,7 +58,7 @@ print(dcel.statistics)
 More detailed usage examples can be found in the [examples](./examples/) directory.
 
 
-## Acknowledgemnt
+## Acknowledgments
 
 `pydcel` builds upon the theoretical insights provided by [Dr. Sanjoy Pratihar](https://sites.google.com/site/sanjoypratihar/home) and takes inspiration from the work of [Angel Yanguas-Gil](https://scholar.google.com/citations?user=HKXeJ9cAAAAJ&hl=en) on the [DCEL](https://pypi.org/project/dcel/) data structure.
 

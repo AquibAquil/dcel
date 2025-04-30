@@ -55,7 +55,7 @@ dcel = Dcel(vertex_coords, edges)
 print(dcel.statistics)
 ```
 
-More detailed usage examples can be found in the [examples](./examples/) directory.
+More detailed usage examples can be found in the [examples](../examples/) directory.
 
 
 ## Acknowledgments
